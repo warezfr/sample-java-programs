@@ -1,0 +1,10 @@
+{
+  "buildpacks": [
+    {
+      "url": "https://github.com/Dynatrace/heroku-buildpack-dynatrace.git"
+    },
+    {
+      "url": "heroku/ruby"
+    }
+  ]
+}
